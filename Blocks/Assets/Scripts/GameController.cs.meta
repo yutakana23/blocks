@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c0a287e167c93d34683113e5ba3f6864
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Tblock: {fileID: 3170691481345920847, guid: c02be115eedbfcf46b797769d25fa286,
+      type: 3}
+  - Lblock: {fileID: 5243992341576900872, guid: cf78e9ff5a6ce9548bd6cc5561845096,
+      type: 3}
+  - Iblock: {fileID: 2232490411032309912, guid: 9d88148c70cafc0499b9bafc3bc28cb1,
+      type: 3}
+  - Sblock: {fileID: 4945446834773484070, guid: 1832ebfde5ae2d14aaab2c239fd79250,
+      type: 3}
+  - clickedGameObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
